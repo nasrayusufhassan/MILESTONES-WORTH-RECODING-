@@ -6,9 +6,9 @@
 ## Table of Contents
 - [About](#about)
 - [Projects](#projects)
-- [How to Run](#how-to-run)
 - [Learning Goals](#learning-goals)
 - [Contact](#contact)
+- [How to Run](#how-to-run)
 
 ## About
 *Milestones in C* is a collection of beginner-friendly C programs that showcase my learning journey.  
@@ -28,6 +28,17 @@ Each program is stored in its own file for clarity and ease of use.
 | *ATM Simulation* | Simulates a simple ATM interface for deposit, withdrawal, and balance check |
 
 > Each project is located in its own file in this repository.
+
+## Learning Goals
+- Understand basic C programming concepts: variables, operators, loops, conditions, and input/output.
+- Gain confidence in writing small functional programs.
+- Develop organizational skills for code and GitHub repositories.
+- Prepare for more advanced C programming projects in the future.
+
+## Contact
+*Name:* Nasra Yusuf  
+*GitHub:* [https://github.com/nasrayusufhassan] 
+*Email:* nasrayusufhassan@gmail.com
 
 ## How to Run
 1. Open the program file in a C IDE or a text editor.
@@ -50,22 +61,6 @@ gcc program_name.c -o program_name
 
 
 
-Learning Goals
-
-Understand basic C programming concepts: variables, operators, loops, conditions, and input/output.
-
-Gain confidence in writing small functional programs.
-
-Develop organizational skills for code and GitHub repositories.
-
-Prepare for more advanced C programming projects in the future.
-
-
-Contact
-
-Name: Nasra Yusuf
-GitHub: https://github.com/nasrayusufhassan
-Email: nasrayusufhassan@gmail.com
-
 ---
 
+  
