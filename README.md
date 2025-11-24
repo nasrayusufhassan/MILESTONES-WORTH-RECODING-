@@ -46,6 +46,7 @@ gcc program_name.c -o program_name
 > Example: To run the Simple Calculator, compile calculator.c and enter numbers and the operation you want.
 
 
+
 Learning Goals
 
 Understand basic C programming concepts: variables, operators, loops, conditions, and input/output.
@@ -55,13 +56,5 @@ Gain confidence in writing small functional programs.
 Develop organizational skills for code and GitHub repositories.
 
 Prepare for more advanced C programming projects in the future.
-
-
-Contact
-
-Name: Nasra Yusuf
-GitHub: https://github.com/nasrayusufhassan
-Email: nasrayusufhassan@gmail.com
-
 
 
